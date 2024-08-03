@@ -1,0 +1,56 @@
+#       Web Devevelopment README.md file.
+###      List of projects:--Heading-2
+###     Heading-3
+####    Heading-4
+#####   Heading-5
+######  Heading-6
+---
+* list1
+* list2
+* list3
+___
+1. First item
+2. Second item
+3. Third item
+***
+> This is a blockquote.
+> This is the link:--
+[Go to this link text](https://example.com)
+---
+## This is `inline code: print ('hello')`.
+This is `inline code: print ('hello')`.
+```
+python
+def my_function():
+  print("Hello, world!")
+```
+**Example:**
+| Column 1 | Column 2 |
+|---|---|
+| Cell 1 | Cell 2 |
+| Cell 3 | Cell 4 |
+| Cell 5 | Cell 6 |
+----------------------
+### Web Consultant Website.
+#### What i have learnt from this project?
+* This is bit intermeddiate course but  firendly course but basic 
+* How to write code in a better way.
+* Basically this project will teach us how to make beautifull and responsive website just by using float.
+* Use transition and transform property of CSS for basic movement of elements and simple animation.
+* Access elements using first,nth or by using not operators.
+Project link: [visit here.](https://www.youtube.com/playlist?list=PLV_UxN5br4ixxHVzgLczedjJLHFFeAoA9)
+----------------------
+
+<h1>H1 heading tag.</h1>
+<u>underlined text.........</u>
+hi hello
+how are you.
+hi <br> how..... ? what?		tab..
+
+
+
+
+isnt 4 line gap?
+<br><br><br><br> isnt 4 line gap? mow tab \t yes think so................
+      jkj       jkl.....
+<pre>        jj</pre>
